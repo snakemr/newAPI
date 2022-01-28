@@ -14,6 +14,10 @@ JetBrains PhpStorm project
 
 database.php - simple framework
 
+.htaccess - apache configuration (hides ".php")
+
+web.config - IIS configuration (hides ".php")
+
 -
 Project sample:
 
